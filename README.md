@@ -10,7 +10,6 @@ Welcome to the Signature Recognition project, where we employ Convolutional Neur
 - [Repository Structure](#repository-structure)
 - [Usage](#usage)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Overview
 
