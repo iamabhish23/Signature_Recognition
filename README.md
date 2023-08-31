@@ -64,10 +64,6 @@ Signature recognition plays a pivotal role in security and verification processe
 
 We welcome contributions to this project! Feel free to raise issues or submit pull requests for enhancements or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 By Abhishek Tiwari
